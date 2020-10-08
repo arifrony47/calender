@@ -1,0 +1,37 @@
+
+ 
+ td{
+ 
+     border: none;
+ }
+ .c1{
+     color: rgb(221, 205, 194);
+     font-size: 20px;
+ }
+ .t1{
+    color: bold #f3efef;
+    text-shadow: 5px 2px 3px #28a7c4;
+}
+
+.t1:hover{
+  font-size: 25px;
+    background:rgba(0,0,0,0.2);
+    color:rgb(248, 247, 247); 
+    border-radius: 50%;
+    transition:1.7s;
+    text-shadow:5px 2px 5px rgb(239, 239, 247);
+}
+ .t2{
+     color: #f62b47;
+     text-shadow: 3px 2px 3px #fff46d;
+ }
+ 
+ .t2:hover{
+    font-size: 25px;
+    background:rgba(0,0,0,0.2);
+    color:rgb(72, 5, 255); 
+    border-radius: 50%;
+    transition:1.7s;
+    text-shadow:5px 2px 5px rgb(239, 239, 247);
+
+ }
